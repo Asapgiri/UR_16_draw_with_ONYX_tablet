@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gl-plot3d": "^2.4.7",
+    "prompt-sync": "github:heapwolf/prompt-sync",
+    "ur-state-receiver": "github:ABC-iRobotics/ur-state-receiver"
+  }
+}
