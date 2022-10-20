@@ -3,6 +3,6 @@
 
 # Pease view every plot before sending anything to the real robotarm!
 
-The main program is found in 'pdf_to_vectors.js'
+The main program is found in `pdf_to_vectors.js`
 
-Use 'npm i' to install pakages.
+Use `npm i` to install pakages.
